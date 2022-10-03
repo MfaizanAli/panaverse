@@ -1,5 +1,9 @@
 // /** JavaScript 1st Assigment  */
 
+/**
+ * please run command "node index.js" in terminal
+ */
+
 //    1 Install Node.js and VS Code on your computer.
 
 // Question 2
